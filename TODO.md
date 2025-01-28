@@ -1,6 +1,9 @@
- - [ ] Gaussverfahren 
+ - [ ] Mengen, Aussagen, Abbildung
+ - [ ] Gaussverfahren, Determinante & co.
  - [ ] (Vollständige) Induktion
  - [ ] Felder
  - [ ] Lineare Gleichungssysteme Lösen
  - [ ] Imaginäre Zahlen (H3.3)
+ - [ ] Vektoren/Linear Maps
+ - [ ] Matrices
  - [ ] 
